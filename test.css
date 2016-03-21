@@ -1,0 +1,20 @@
+
+.boxAlpha {
+	border: solid;
+}
+
+.boxBeta{
+    border: solid;
+    border-color: aqua;
+}
+
+table {
+    border:1px solid black
+}
+thead th {
+    background: grey;
+    color:white;
+}
+input {
+    margin:5px 0px;
+}
